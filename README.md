@@ -7,7 +7,7 @@ Desafio do ignite trilha ReactJS da rocketseat
 A aplicação consiste em adicionar e remover tarefas, aplicando o conceito de estado do react
 
 ## Layout
-
+![Desktop](https://github.com/ThalesFreitas/Ignite-Desafio-01-ReactJS-Chapter-I/blob/main/layout.png)
 
 # Tecnologias utilizadas
 - HTML / CSS /SASS / TypeScript
