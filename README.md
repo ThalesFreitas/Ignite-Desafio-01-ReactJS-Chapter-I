@@ -14,6 +14,7 @@ A aplicação consiste em adicionar e remover tarefas, aplicando o conceito de e
 - Webpack
 - Babel
 - ReactJS
+- Hooks do React
 
 # Como executar o projeto
 
