@@ -3,8 +3,8 @@ Desafio do ignite trilha ReactJS da rocketseat
 # To.DO
 [![NPM](https://img.shields.io/npm/l/reactjs_ignite)](https://github.com/ThalesFreitas/Ignite-Desafio-01-ReactJS-Chapter-I/blob/main/LICENSE) 
 
-# Sobre o projeto
-A aplicação consiste em adicionar e remover tarefas, aplicando o conceito de estado do react
+# Sobre o desafio
+A aplicação consiste em adicionar e remover tarefas, aplicando o conceito de estado do react.
 
 ## Layout
 ![Desktop](https://github.com/ThalesFreitas/Ignite-Desafio-01-ReactJS-Chapter-I/blob/main/layout.png)
